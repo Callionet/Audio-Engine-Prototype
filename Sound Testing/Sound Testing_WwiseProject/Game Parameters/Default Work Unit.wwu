@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E78A542C-B82E-4B31-A3C6-278DB9386E83}" SchemaVersion="89">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{E78A542C-B82E-4B31-A3C6-278DB9386E83}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="Day_Night" ID="{D9412219-206D-4E1E-93D2-981B1F2959FB}">
+					<PropertyList>
+						<Property Name="FilterTimeDown" Type="Real64" Value="2"/>
+						<Property Name="FilterTimeUp" Type="Real64" Value="2"/>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+						<Property Name="Max" Type="Real64" Value="1"/>
+						<Property Name="RTPCRamping" Type="int16" Value="2"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Winter_Dis" ID="{467B3BC0-D82C-4019-BF43-830CC20D9080}"/>
+				<GameParameter Name="Summer_This" ID="{0246827B-DA0B-429A-AE37-9FAD42D1D85C}"/>
+				<GameParameter Name="Autum_This" ID="{9C6A232A-3793-45A1-AEB4-DF49983717AA}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Spring_This" ID="{9A57E1AC-ACA4-4850-84F0-7A7F5BE34C3A}"/>
+				<GameParameter Name="Danger" ID="{42260408-72D3-4DCA-B746-33503B9E6C5F}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Top_Layers" ID="{E0838BC8-59FA-49ED-9D31-ACA4B82FBEB6}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Percusive" ID="{6498E7BF-1C8D-4535-A086-F7A153CB8E79}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

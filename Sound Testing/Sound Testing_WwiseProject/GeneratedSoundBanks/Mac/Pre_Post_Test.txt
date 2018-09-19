@@ -1,0 +1,30 @@
+Event	ID	Name			Wwise Object Path	Notes
+	961903338	Zone_Test			\Pre Post Zones\Zone_Test	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1565509801	Percusive			\Default Work Unit\Percusive	
+	2842206639	Top_Layers			\Default Work Unit\Top_Layers	
+	4174463524	Danger			\Default Work Unit\Danger	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	84508674	Base	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\Base 5_8956FC97.wem		\Interactive Music Hierarchy\Pre and Post Event BGM\Zones\Industrial\Body\Base		1440064
+	103483256	Base	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\Base 7_8956FC97.wem		\Interactive Music Hierarchy\Pre and Post Event BGM\Zones\Industrial\Body\Base		1440064
+	255200944	End	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\Piano 1_8956FC97.wem		\Interactive Music Hierarchy\Pre and Post Event BGM\Zones\Snow\End\End		2457664
+	305913004	Pad	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\Pad_8956FC97.wem		\Interactive Music Hierarchy\Pre and Post Event BGM\Zones\Snow\Body\Pad		4915264
+	363043576	High 5	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\High 5_8956FC97.wem		\Interactive Music Hierarchy\Pre and Post Event BGM\Zones\Industrial\End\High 5		1440064
+	385917319	High 1	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\High 1_8956FC97.wem		\Interactive Music Hierarchy\Pre and Post Event BGM\Zones\Industrial\Intro\High 1		1440064
+	387925646	Melody	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\Piano 2_8956FC97.wem		\Interactive Music Hierarchy\Pre and Post Event BGM\Zones\Snow\Body\Melody		4915264
+	409404754	Base	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\Base 6_8956FC97.wem		\Interactive Music Hierarchy\Pre and Post Event BGM\Zones\Industrial\Body\Base		1440064
+	539456767	Perc	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\Perc 1_8956FC97.wem		\Interactive Music Hierarchy\Pre and Post Event BGM\Zones\Industrial\Body\Perc		1440064
+	587745985	Perc	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\Perc 4_8956FC97.wem		\Interactive Music Hierarchy\Pre and Post Event BGM\Zones\Industrial\Body\Perc		1440064
+	594591151	High	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\High 2_8956FC97.wem		\Interactive Music Hierarchy\Pre and Post Event BGM\Zones\Industrial\Body\High		1440064
+	665500072	High	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\High 3_8956FC97.wem		\Interactive Music Hierarchy\Pre and Post Event BGM\Zones\Industrial\Body\High		1440064
+	745439820	Perc	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\Perc 3_8956FC97.wem		\Interactive Music Hierarchy\Pre and Post Event BGM\Zones\Industrial\Body\Perc		1440064
+	772820083	Melody	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\Arp_8956FC97.wem		\Interactive Music Hierarchy\Pre and Post Event BGM\Zones\Snow\Body\Melody		4915264
+	826719023	Intro	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\Intro_8956FC97.wem		\Interactive Music Hierarchy\Pre and Post Event BGM\Zones\Snow\Intro\Intro		1843264
+	840945941	Intro 2	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\Intro 2_8956FC97.wem		\Interactive Music Hierarchy\Pre and Post Event BGM\Zones\Industrial\Intro\Intro 2		1440064
+	855440893	Perc	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\Per_8956FC97.wem		\Interactive Music Hierarchy\Pre and Post Event BGM\Zones\Snow\Body\Perc		4915264
+	873593109	Base	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\Base 1_8956FC97.wem		\Interactive Music Hierarchy\Pre and Post Event BGM\Zones\Industrial\Body\Base		1440064
+	879292222	Perc	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\Perc 2_8956FC97.wem		\Interactive Music Hierarchy\Pre and Post Event BGM\Zones\Industrial\Body\Perc		1440064
+	941252693	Attack	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\Attack_8956FC97.wem		\Interactive Music Hierarchy\Pre and Post Event BGM\Zones\Snow\Alien\Attack		1440064
+

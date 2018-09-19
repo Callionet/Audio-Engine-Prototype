@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{4424F821-4DC6-497C-BC04-D88A1D8671EF}" SchemaVersion="89">
+	<Switches>
+		<WorkUnit Name="Default Work Unit" ID="{4424F821-4DC6-497C-BC04-D88A1D8671EF}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="Cube" ID="{4A9BAA61-A10C-4884-AB04-0EBBE11F8CF8}">
+					<ChildrenList>
+						<Switch Name="Yes" ID="{4F17B60B-3C94-4A60-9305-A5E49C8F5BC6}"/>
+						<Switch Name="No" ID="{B46A196C-90BB-4260-8817-6044AD85A1AF}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Sphere" ID="{CE7892C9-7F59-4EFF-90A3-628087FBD596}">
+					<ChildrenList>
+						<Switch Name="Yes" ID="{09A14F80-3EA7-4C27-95D8-B41C43ED2606}"/>
+						<Switch Name="No" ID="{88895853-ABBB-4699-8D6C-AEBD7E5D631B}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>

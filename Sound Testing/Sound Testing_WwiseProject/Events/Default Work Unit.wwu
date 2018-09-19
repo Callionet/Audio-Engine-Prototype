@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{41B81A10-BA8A-4410-A175-F5DD260AD356}" SchemaVersion="89">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{41B81A10-BA8A-4410-A175-F5DD260AD356}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="state_season" ID="{6D921484-4F21-42D1-99A3-80C164DF04DE}">
+					<ChildrenList>
+						<Action Name="" ID="{B0D8D8C0-9CFA-4ED0-AB4D-3BA8FFACC8DD}" ShortID="32358077">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Music" ID="{79809106-CA6C-429B-97C7-0B0D65AB408D}" WorkUnitID="{BD97C901-D453-42E2-A86A-BA7F663ADEBF}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="water" ID="{CDC608FA-FCBE-477D-95F1-59CE9ADFC6CC}">
+					<ChildrenList>
+						<Action Name="" ID="{B96A3A44-A087-4536-A832-F334BA198129}" ShortID="748077214">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="GAF SFX04 - LIQUIDS - Ocean Water Movement Close" ID="{559EB01A-9412-4E5E-AB38-1FE38BD5D09B}" WorkUnitID="{5B3EFFE1-8601-4CC6-BB63-0ACEBC1EA75F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{8E591B15-BAC9-4CF5-85C7-3A79B509FF9C}" ShortID="730714615">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="41"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Cube" ID="{8717CA23-5CCA-4E01-BE81-14196B98EEC6}" WorkUnitID="{41B81A10-BA8A-4410-A175-F5DD260AD356}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{6EC43F27-A9DD-429F-9121-9E5D96498E03}" ShortID="177728023">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="41"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Sphere" ID="{4AC5D48F-4846-48BD-A10F-D8AC3142D31A}" WorkUnitID="{41B81A10-BA8A-4410-A175-F5DD260AD356}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="gradient_season" ID="{E1748906-2D88-421C-A571-A594C42A6790}">
+					<ChildrenList>
+						<Action Name="" ID="{6052FD78-0593-4AA4-ADCB-F76708F7C88B}" ShortID="324741656">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gradient Music" ID="{16D3B5E5-CC72-4474-A367-0B7BEAFD58CA}" WorkUnitID="{521E8131-9605-4624-AE7F-A2DE68993F10}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="global_base" ID="{56145905-C9C2-4CD1-B87E-0ADF837D1AEA}">
+					<ChildrenList>
+						<Action Name="" ID="{33812328-2646-44C4-9431-CB28B56C3AC1}" ShortID="819056993">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Global Base" ID="{3197361B-6C8C-43F2-BA83-C650349E1ACC}" WorkUnitID="{521E8131-9605-4624-AE7F-A2DE68993F10}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="spring" ID="{A2D1FB31-505B-42CB-B15A-A3B318CAB4C6}">
+					<ChildrenList>
+						<Action Name="" ID="{B4E125D5-0904-4F5D-9666-E1B148385699}" ShortID="766237182">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="spring" ID="{B6A73E2E-B744-48C7-B68D-A650B094D1C3}" WorkUnitID="{521E8131-9605-4624-AE7F-A2DE68993F10}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="winter" ID="{BB43BECD-F454-4FBC-8235-915CFAAF8000}">
+					<ChildrenList>
+						<Action Name="" ID="{B50B0569-681A-4A28-A1CA-090A2554D7C2}" ShortID="133428685">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="winter" ID="{3AEE6EE4-7D2E-400D-9A02-8CD89757D44B}" WorkUnitID="{521E8131-9605-4624-AE7F-A2DE68993F10}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="summer" ID="{8800A136-672F-4FF6-9814-173D5BC8E656}">
+					<ChildrenList>
+						<Action Name="" ID="{1B463405-EB42-41E6-BB8A-9F8B11ED8112}" ShortID="884449146">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="summer" ID="{6B1D5913-C0C3-487D-9FE0-C9FA3B9810CA}" WorkUnitID="{521E8131-9605-4624-AE7F-A2DE68993F10}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="autum" ID="{9F4FA13B-9454-4BE2-BB08-4D58D7B08C8D}">
+					<ChildrenList>
+						<Action Name="" ID="{06C12421-EA07-4C1A-AFA7-5F2CB0908E22}" ShortID="220905519">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="autum" ID="{ED73181F-7862-4516-B2BA-1404E395B2E2}" WorkUnitID="{521E8131-9605-4624-AE7F-A2DE68993F10}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="base" ID="{8B2A9099-0855-425C-835F-5390A0017E39}">
+					<ChildrenList>
+						<Action Name="" ID="{308643CD-92C3-4F1C-B5A6-4D7334C6F52D}" ShortID="348076807">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="base" ID="{9E3FD2B3-0B27-49D7-B063-69DCD48FDFF9}" WorkUnitID="{521E8131-9605-4624-AE7F-A2DE68993F10}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="AI_Test" ID="{0CBAD8F6-59F4-4AA9-8134-51A81D9E8CA6}">
+					<ChildrenList>
+						<Action Name="" ID="{12AAD898-C725-45CC-AC24-87EEE606FC88}" ShortID="1021915910">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="AI Music" ID="{D42C2B1A-57D8-413C-AF91-8A101FEB5DFA}" WorkUnitID="{7CAF4EAA-1E33-468B-BEB2-6D3108844909}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Cube" ID="{8717CA23-5CCA-4E01-BE81-14196B98EEC6}">
+					<ChildrenList>
+						<Action Name="" ID="{9F46E9C0-1D4C-4852-8698-FCF0CDBEDAFC}" ShortID="332626660">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="23"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Yes" ID="{4F17B60B-3C94-4A60-9305-A5E49C8F5BC6}" WorkUnitID="{4424F821-4DC6-497C-BC04-D88A1D8671EF}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{8BB3ACBD-900D-4C30-9111-93F9CFD3F191}" ShortID="535574259">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="23"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="No" ID="{B46A196C-90BB-4260-8817-6044AD85A1AF}" WorkUnitID="{4424F821-4DC6-497C-BC04-D88A1D8671EF}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Sphere" ID="{4AC5D48F-4846-48BD-A10F-D8AC3142D31A}">
+					<ChildrenList>
+						<Action Name="" ID="{07436C6D-C736-4BE1-B101-718ABCD29308}" ShortID="35039417">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="23"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Yes" ID="{09A14F80-3EA7-4C27-95D8-B41C43ED2606}" WorkUnitID="{4424F821-4DC6-497C-BC04-D88A1D8671EF}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{38465B48-97B8-42D2-B7A2-F70A31D17505}" ShortID="954121875">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="23"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="No" ID="{88895853-ABBB-4699-8D6C-AEBD7E5D631B}" WorkUnitID="{4424F821-4DC6-497C-BC04-D88A1D8671EF}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Occlusion_Test" ID="{77748BEC-30CA-4499-9B0D-66D36DC72097}">
+					<ChildrenList>
+						<Action Name="" ID="{4E3589C8-9ABA-4C1A-9A60-28DC889BA25F}" ShortID="694563743">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Occlusion" ID="{1F3AF0B6-C379-481F-8127-89083B470083}" WorkUnitID="{792AB8E6-38D5-4B94-B29B-DADC730AE6D0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Occlusion_Off" ID="{F5D05160-0D3A-4BBB-8C7B-61A093B81D0F}">
+					<ChildrenList>
+						<Action Name="" ID="{EC4A7FA3-D538-4924-BB28-0FD256595548}" ShortID="238889858">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Occlusion" ID="{1F3AF0B6-C379-481F-8127-89083B470083}" WorkUnitID="{792AB8E6-38D5-4B94-B29B-DADC730AE6D0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

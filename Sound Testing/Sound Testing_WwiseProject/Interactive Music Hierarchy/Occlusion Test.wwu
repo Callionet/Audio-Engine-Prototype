@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{792AB8E6-38D5-4B94-B29B-DADC730AE6D0}" SchemaVersion="89">
+	<InteractiveMusic>
+		<WorkUnit Name="Occlusion Test" ID="{792AB8E6-38D5-4B94-B29B-DADC730AE6D0}" PersistMode="Standalone">
+			<ChildrenList>
+				<MusicPlaylistContainer Name="Occlusion" ID="{1F3AF0B6-C379-481F-8127-89083B470083}" ShortID="542092393">
+					<PropertyList>
+						<Property Name="3DSpatialization" Type="int16" Value="1"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Attenuation">
+							<ObjectRef Name="Volume Only" ID="{1CD63FF7-8AD3-43FF-ACA9-79D7CFB067FA}" WorkUnitID="{27C51A61-BC59-4DCF-B02C-4613A2A0BB05}"/>
+						</Reference>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AC6DED39-D0E2-40BB-B4B4-D0BC09BEF4E4}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{76F537B3-8674-4AA8-B3E5-E7A92F82BD43}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<MusicSegment Name="Occlusion Test" ID="{3D56FFE2-3BE7-42E4-8CA8-5736B29E5AAB}" ShortID="379312724">
+							<PropertyList>
+								<Property Name="EndPosition" Type="Real64" Value="7499.50113378685"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AC6DED39-D0E2-40BB-B4B4-D0BC09BEF4E4}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{76F537B3-8674-4AA8-B3E5-E7A92F82BD43}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<MusicTrack Name="BP Drumloop 45b 128bpm" ID="{9F3FF258-7042-4246-84C3-31FA14C2DB0E}" ShortID="698344135">
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{76F537B3-8674-4AA8-B3E5-E7A92F82BD43}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="BP Drumloop 45b 128bpm" ID="{CB2F110A-EADD-49CC-8E9E-8E20DAA49028}" ShortID="925895184">
+											<Language>SFX</Language>
+											<AudioFile>BP Drumloop 45b 128bpm.wav</AudioFile>
+											<ConvertedFileIDList>
+												<File ID="465230762"/>
+											</ConvertedFileIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{38F56945-6D43-443A-94F1-269C8108D3C8}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{B1CE58F7-0B20-4498-97B7-EC5D1F091CCB}">
+											<ClipList>
+												<MusicClip Name="BP Drumloop 45b 128bpm" ID="{787E181D-8389-4D97-ACA7-C79D25C1C721}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="7499.50113378685"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="BP Drumloop 45b 128bpm" ID="{CB2F110A-EADD-49CC-8E9E-8E20DAA49028}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+							</ChildrenList>
+							<CueList>
+								<MusicCue Name="Entry Cue" ID="{E06D7D33-6795-4A19-8F27-A680F9B16E16}"/>
+								<MusicCue Name="Exit Cue" ID="{65F9B6A5-3C13-4AE5-8A3A-C1FE69C74032}">
+									<PropertyList>
+										<Property Name="CueType" Type="int16" Value="1"/>
+										<Property Name="TimeMs" Type="Real64" Value="7499.49965627445"/>
+									</PropertyList>
+								</MusicCue>
+							</CueList>
+						</MusicSegment>
+					</ChildrenList>
+					<TransitionList>
+						<MusicTransition Name="Root" ID="{102428F5-88BB-4ABD-AA43-DBA6AE9530C9}">
+							<PropertyList>
+								<Property Name="IsFolder" Type="bool" Value="True"/>
+							</PropertyList>
+							<ChildrenList>
+								<MusicTransition Name="Transition" ID="{D9E059F0-9C7E-4B3E-8BAB-40146155251F}">
+									<TransitionInfo/>
+								</MusicTransition>
+							</ChildrenList>
+							<TransitionInfo/>
+						</MusicTransition>
+					</TransitionList>
+					<Playlist>
+						<MusicPlaylistItem Name="" ID="{21F03D12-4D91-4584-B480-EF372B7E153D}" ShortID="630344652">
+							<PropertyList>
+								<Property Name="LoopCount" Type="int16" Value="0"/>
+							</PropertyList>
+							<ChildrenList>
+								<MusicPlaylistItem Name="" ID="{2B4B172B-7692-4425-AB2E-F1BD0A69A8EB}" ShortID="31611830">
+									<PropertyList>
+										<Property Name="PlaylistItemType" Type="int16" Value="1"/>
+									</PropertyList>
+									<SegmentRef Name="Occlusion Test" ID="{3D56FFE2-3BE7-42E4-8CA8-5736B29E5AAB}"/>
+								</MusicPlaylistItem>
+							</ChildrenList>
+						</MusicPlaylistItem>
+					</Playlist>
+				</MusicPlaylistContainer>
+			</ChildrenList>
+		</WorkUnit>
+	</InteractiveMusic>
+</WwiseDocument>

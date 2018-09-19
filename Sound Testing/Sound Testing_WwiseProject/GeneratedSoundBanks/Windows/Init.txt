@@ -1,0 +1,32 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	1695580245	Transition_Zone			\Default Work Unit\Transition_Zone	
+	2764240573	Combat			\Default Work Unit\Combat	
+	3381515358	Season			\Default Work Unit\Season	
+	3433927290	Pre_Post_Zone			\Default Work Unit\Pre_Post_Zone	
+	4160158214	Trance			\Default Work Unit\Trance	
+
+State	ID	Name	State Group			Notes
+	0	None	Transition_Zone			
+	1035179858	no_transition	Transition_Zone			
+	1322124008	yes_transition	Transition_Zone			
+	0	None	Combat			
+	979470758	Yes	Combat			
+	1668749452	No	Combat			
+	0	None	Season			
+	1000141335	Autum	Season			
+	1296465106	Spring	Season			
+	2965343494	Winter	Season			
+	3924562482	Summer	Season			
+	0	None	Pre_Post_Zone			
+	478885480	Industrial	Pre_Post_Zone			
+	787898836	Snow	Pre_Post_Zone			
+	0	None	Trance			
+	1607178051	trance1	Trance			
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

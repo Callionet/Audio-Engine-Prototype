@@ -1,0 +1,11 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2654748154	water			\Default Work Unit\water	
+	3478592334	Sphere			\Default Work Unit\Sphere	
+	3804273718	AI_Test			\Default Work Unit\AI_Test	
+	4052031814	Cube			\Default Work Unit\Cube	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	5381104	GAF SFX04 - LIQUIDS - Ocean Water Movement Close	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\GAF SFX04 - LIQUIDS - Ocean Water Movement Close_8956FC97.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAF SFX04 - LIQUIDS - Ocean Water Movement Close		11955776
+	442828075	BP Major Wobble Beat 128bpm F#	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\BP Major Wobble Beat 128bpm F#_8956FC97.wem		\Interactive Music Hierarchy\Test Sound Termination\New Music Switch Container\AI Music\Wobble Base\BP Major Wobble Beat 128bpm F#		331740
+	652979076	BP Major Wobble 128bpm F#	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\BP Major Wobble 128bpm F#_8956FC97.wem		\Interactive Music Hierarchy\Test Sound Termination\New Music Switch Container\AI Music\Wobble Base\BP Major Wobble 128bpm F#		662488
+

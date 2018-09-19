@@ -1,0 +1,17 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1000141335	autum			\Default Work Unit\autum	
+	1291433366	base			\Default Work Unit\base	
+	1296465106	spring			\Default Work Unit\spring	
+	2965343494	winter			\Default Work Unit\winter	
+	3924562482	summer			\Default Work Unit\summer	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	105542593	fire	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\fire_8956FC97.wem		\Interactive Music Hierarchy\Gradient Music\RTCP Zone\Season\summer\fire\fire		6912064
+	263609219	pulse	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\pulse_8956FC97.wem		\Interactive Music Hierarchy\Gradient Music\RTCP Zone\Season\autum\pulse\pulse		6912064
+	276991622	conga	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\conga_8956FC97.wem		\Interactive Music Hierarchy\Gradient Music\RTCP Zone\Season\autum\conga\conga		3072064
+	312396702	sidechain	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\sidechain_8956FC97.wem		\Interactive Music Hierarchy\Gradient Music\RTCP Zone\Season\spring\sidechain1\sidechain		3072064
+	763610213	sidechain2	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\sidechain2_8956FC97.wem		\Interactive Music Hierarchy\Gradient Music\RTCP Zone\Season\summer\sidechain2\sidechain2		3072064
+	798224761	bass	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\bass_8956FC97.wem		\Interactive Music Hierarchy\Gradient Music\RTCP Zone\base\Base\bass		3072064
+	904589003	rave	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\rave_8956FC97.wem		\Interactive Music Hierarchy\Gradient Music\RTCP Zone\Season\spring\rave\rave		4608064
+	1036277152	modular	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\modular_8956FC97.wem		\Interactive Music Hierarchy\Gradient Music\RTCP Zone\Season\winter\modular\modular		3072064
+

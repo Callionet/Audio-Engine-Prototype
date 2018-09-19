@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="11" SoundbankVersion="132">
+	<RootPaths>
+		<ProjectRoot>D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="77978275" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Ambient</ObjectPath>
+			<ShortName>Ambient</ShortName>
+			<Path>Ambient.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3804273718" Name="AI_Test" ObjectPath="\Events\Default Work Unit\AI_Test" MaxAttenuation="12.000000"/>
+				<Event Id="4052031814" Name="Cube" ObjectPath="\Events\Default Work Unit\Cube" MaxAttenuation="0.000000"/>
+				<Event Id="3478592334" Name="Sphere" ObjectPath="\Events\Default Work Unit\Sphere" MaxAttenuation="0.000000"/>
+				<Event Id="2654748154" Name="water" ObjectPath="\Events\Default Work Unit\water" MaxAttenuation="50.000000"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="5381104" Language="SFX">
+					<ShortName>GAF SFX04 - LIQUIDS - Ocean Water Movement Close.wav</ShortName>
+					<Path>SFX\GAF SFX04 - LIQUIDS - Ocean Water Movement Close_8956FC97.wem</Path>
+				</File>
+				<File Id="442828075" Language="SFX">
+					<ShortName>BP Major Wobble Beat 128bpm F#.wav</ShortName>
+					<Path>SFX\BP Major Wobble Beat 128bpm F#_8956FC97.wem</Path>
+				</File>
+				<File Id="652979076" Language="SFX">
+					<ShortName>BP Major Wobble 128bpm F#.wav</ShortName>
+					<Path>SFX\BP Major Wobble 128bpm F#_8956FC97.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="299790228" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Pre_Post_Test</ObjectPath>
+			<ShortName>Pre_Post_Test</ShortName>
+			<Path>Pre_Post_Test.bnk</Path>
+			<IncludedEvents>
+				<Event Id="961903338" Name="Zone_Test" ObjectPath="\Events\Pre Post Zones\Zone_Test"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="84508674" Language="SFX">
+					<ShortName>Base 5.wav</ShortName>
+					<Path>SFX\Base 5_8956FC97.wem</Path>
+				</File>
+				<File Id="103483256" Language="SFX">
+					<ShortName>Base 7.wav</ShortName>
+					<Path>SFX\Base 7_8956FC97.wem</Path>
+				</File>
+				<File Id="255200944" Language="SFX">
+					<ShortName>Piano 1.wav</ShortName>
+					<Path>SFX\Piano 1_8956FC97.wem</Path>
+				</File>
+				<File Id="305913004" Language="SFX">
+					<ShortName>Pad.wav</ShortName>
+					<Path>SFX\Pad_8956FC97.wem</Path>
+				</File>
+				<File Id="363043576" Language="SFX">
+					<ShortName>High 5.wav</ShortName>
+					<Path>SFX\High 5_8956FC97.wem</Path>
+				</File>
+				<File Id="385917319" Language="SFX">
+					<ShortName>High 1.wav</ShortName>
+					<Path>SFX\High 1_8956FC97.wem</Path>
+				</File>
+				<File Id="387925646" Language="SFX">
+					<ShortName>Piano 2.wav</ShortName>
+					<Path>SFX\Piano 2_8956FC97.wem</Path>
+				</File>
+				<File Id="409404754" Language="SFX">
+					<ShortName>Base 6.wav</ShortName>
+					<Path>SFX\Base 6_8956FC97.wem</Path>
+				</File>
+				<File Id="539456767" Language="SFX">
+					<ShortName>Perc 1.wav</ShortName>
+					<Path>SFX\Perc 1_8956FC97.wem</Path>
+				</File>
+				<File Id="587745985" Language="SFX">
+					<ShortName>Perc 4.wav</ShortName>
+					<Path>SFX\Perc 4_8956FC97.wem</Path>
+				</File>
+				<File Id="594591151" Language="SFX">
+					<ShortName>High 2.wav</ShortName>
+					<Path>SFX\High 2_8956FC97.wem</Path>
+				</File>
+				<File Id="665500072" Language="SFX">
+					<ShortName>High 3.wav</ShortName>
+					<Path>SFX\High 3_8956FC97.wem</Path>
+				</File>
+				<File Id="745439820" Language="SFX">
+					<ShortName>Perc 3.wav</ShortName>
+					<Path>SFX\Perc 3_8956FC97.wem</Path>
+				</File>
+				<File Id="772820083" Language="SFX">
+					<ShortName>Arp.wav</ShortName>
+					<Path>SFX\Arp_8956FC97.wem</Path>
+				</File>
+				<File Id="826719023" Language="SFX">
+					<ShortName>Intro.wav</ShortName>
+					<Path>SFX\Intro_8956FC97.wem</Path>
+				</File>
+				<File Id="840945941" Language="SFX">
+					<ShortName>Intro 2.wav</ShortName>
+					<Path>SFX\Intro 2_8956FC97.wem</Path>
+				</File>
+				<File Id="855440893" Language="SFX">
+					<ShortName>Per.wav</ShortName>
+					<Path>SFX\Per_8956FC97.wem</Path>
+				</File>
+				<File Id="873593109" Language="SFX">
+					<ShortName>Base 1.wav</ShortName>
+					<Path>SFX\Base 1_8956FC97.wem</Path>
+				</File>
+				<File Id="879292222" Language="SFX">
+					<ShortName>Perc 2.wav</ShortName>
+					<Path>SFX\Perc 2_8956FC97.wem</Path>
+				</File>
+				<File Id="941252693" Language="SFX">
+					<ShortName>Attack.wav</ShortName>
+					<Path>SFX\Attack_8956FC97.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="416688437" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Gradient_Music</ObjectPath>
+			<ShortName>Gradient_Music</ShortName>
+			<Path>Gradient_Music.bnk</Path>
+			<IncludedEvents>
+				<Event Id="305106852" Name="global_base" ObjectPath="\Events\Default Work Unit\global_base"/>
+				<Event Id="500300499" Name="gradient_season" ObjectPath="\Events\Default Work Unit\gradient_season" MaxAttenuation="12.000000"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="105542593" Language="SFX">
+					<ShortName>fire.wav</ShortName>
+					<Path>SFX\fire_8956FC97.wem</Path>
+				</File>
+				<File Id="263609219" Language="SFX">
+					<ShortName>pulse.wav</ShortName>
+					<Path>SFX\pulse_8956FC97.wem</Path>
+				</File>
+				<File Id="276991622" Language="SFX">
+					<ShortName>conga.wav</ShortName>
+					<Path>SFX\conga_8956FC97.wem</Path>
+				</File>
+				<File Id="312396702" Language="SFX">
+					<ShortName>sidechain.wav</ShortName>
+					<Path>SFX\sidechain_8956FC97.wem</Path>
+				</File>
+				<File Id="763610213" Language="SFX">
+					<ShortName>sidechain2.wav</ShortName>
+					<Path>SFX\sidechain2_8956FC97.wem</Path>
+				</File>
+				<File Id="798224761" Language="SFX">
+					<ShortName>bass.wav</ShortName>
+					<Path>SFX\bass_8956FC97.wem</Path>
+				</File>
+				<File Id="904589003" Language="SFX">
+					<ShortName>rave.wav</ShortName>
+					<Path>SFX\rave_8956FC97.wem</Path>
+				</File>
+				<File Id="1036277152" Language="SFX">
+					<ShortName>modular.wav</ShortName>
+					<Path>SFX\modular_8956FC97.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="832057375" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Zone</ObjectPath>
+			<ShortName>Zone</ShortName>
+			<Path>Zone.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1000141335" Name="autum" ObjectPath="\Events\Default Work Unit\autum" MaxAttenuation="12.000000"/>
+				<Event Id="1291433366" Name="base" ObjectPath="\Events\Default Work Unit\base"/>
+				<Event Id="1296465106" Name="spring" ObjectPath="\Events\Default Work Unit\spring" MaxAttenuation="12.000000"/>
+				<Event Id="3924562482" Name="summer" ObjectPath="\Events\Default Work Unit\summer" MaxAttenuation="12.000000"/>
+				<Event Id="2965343494" Name="winter" ObjectPath="\Events\Default Work Unit\winter" MaxAttenuation="12.000000"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="105542593" Language="SFX">
+					<ShortName>fire.wav</ShortName>
+					<Path>SFX\fire_8956FC97.wem</Path>
+				</File>
+				<File Id="263609219" Language="SFX">
+					<ShortName>pulse.wav</ShortName>
+					<Path>SFX\pulse_8956FC97.wem</Path>
+				</File>
+				<File Id="276991622" Language="SFX">
+					<ShortName>conga.wav</ShortName>
+					<Path>SFX\conga_8956FC97.wem</Path>
+				</File>
+				<File Id="312396702" Language="SFX">
+					<ShortName>sidechain.wav</ShortName>
+					<Path>SFX\sidechain_8956FC97.wem</Path>
+				</File>
+				<File Id="763610213" Language="SFX">
+					<ShortName>sidechain2.wav</ShortName>
+					<Path>SFX\sidechain2_8956FC97.wem</Path>
+				</File>
+				<File Id="798224761" Language="SFX">
+					<ShortName>bass.wav</ShortName>
+					<Path>SFX\bass_8956FC97.wem</Path>
+				</File>
+				<File Id="904589003" Language="SFX">
+					<ShortName>rave.wav</ShortName>
+					<Path>SFX\rave_8956FC97.wem</Path>
+				</File>
+				<File Id="1036277152" Language="SFX">
+					<ShortName>modular.wav</ShortName>
+					<Path>SFX\modular_8956FC97.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3962505055" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Occlusion_Test</ObjectPath>
+			<ShortName>Occlusion_Test</ShortName>
+			<Path>Occlusion_Test.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2421955270" Name="Occlusion_Off" ObjectPath="\Events\Default Work Unit\Occlusion_Off" MaxAttenuation="0.000000"/>
+				<Event Id="3962505055" Name="Occlusion_Test" ObjectPath="\Events\Default Work Unit\Occlusion_Test" MaxAttenuation="12.000000"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="465230762" Language="SFX">
+					<ShortName>BP Drumloop 45b 128bpm.wav</ShortName>
+					<Path>SFX\BP Drumloop 45b 128bpm_8956FC97.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="3991942870" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Music</ObjectPath>
+			<ShortName>Music</ShortName>
+			<Path>Music.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3774929168" Name="state_season" ObjectPath="\Events\Default Work Unit\state_season"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="105542593" Language="SFX">
+					<ShortName>fire.wav</ShortName>
+					<Path>SFX\fire_8956FC97.wem</Path>
+				</File>
+				<File Id="121030138" Language="SFX">
+					<ShortName>dirt.wav</ShortName>
+					<Path>SFX\dirt_8956FC97.wem</Path>
+				</File>
+				<File Id="187036036" Language="SFX">
+					<ShortName>build_synth.wav</ShortName>
+					<Path>SFX\build_synth_8956FC97.wem</Path>
+				</File>
+				<File Id="243376747" Language="SFX">
+					<ShortName>buzz.wav</ShortName>
+					<Path>SFX\buzz_8956FC97.wem</Path>
+				</File>
+				<File Id="263609219" Language="SFX">
+					<ShortName>pulse.wav</ShortName>
+					<Path>SFX\pulse_8956FC97.wem</Path>
+				</File>
+				<File Id="276991622" Language="SFX">
+					<ShortName>conga.wav</ShortName>
+					<Path>SFX\conga_8956FC97.wem</Path>
+				</File>
+				<File Id="312396702" Language="SFX">
+					<ShortName>sidechain.wav</ShortName>
+					<Path>SFX\sidechain_8956FC97.wem</Path>
+				</File>
+				<File Id="540090677" Language="SFX">
+					<ShortName>perc.wav</ShortName>
+					<Path>SFX\perc_8956FC97.wem</Path>
+				</File>
+				<File Id="798224761" Language="SFX">
+					<ShortName>bass.wav</ShortName>
+					<Path>SFX\bass_8956FC97.wem</Path>
+				</File>
+				<File Id="1036277152" Language="SFX">
+					<ShortName>modular.wav</ShortName>
+					<Path>SFX\modular_8956FC97.wem</Path>
+				</File>
+				<File Id="1039102965" Language="SFX">
+					<ShortName>bounce.wav</ShortName>
+					<Path>SFX\bounce_8956FC97.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

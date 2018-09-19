@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{0DDE054F-735A-4FCB-A40A-6603E0AD1A59}" SchemaVersion="89">
+	<Events>
+		<WorkUnit Name="Pre Post Zones" ID="{0DDE054F-735A-4FCB-A40A-6603E0AD1A59}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Zone_Test" ID="{451B5E95-ED5F-4385-A8A2-79526B86DFB4}">
+					<ChildrenList>
+						<Action Name="" ID="{9BD5CD3D-2CD2-41E1-8573-A20CD475E380}" ShortID="760734814">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Zones" ID="{DE1F021C-41CA-4CEE-9544-46E7A5BD34A6}" WorkUnitID="{9C9C7E5B-6877-4CD6-B238-35789BFE742A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{DE1F0074-9CAF-4798-8C65-50BFD549A4E1}" ShortID="138505944">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Attack" ID="{A0769F40-5BB9-4F52-81BE-9783DE2D3989}" WorkUnitID="{9C9C7E5B-6877-4CD6-B238-35789BFE742A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

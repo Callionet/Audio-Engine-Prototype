@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IncrementalBankBuild Version="6" Flags="878078161">
+	<Platform GUID="{A7D76755-4F6C-42B9-B908-71C3ED71F00F}">
+		<Banks>
+			<Language ID="393239870">
+				<File Name="Ambient" Hash="2756544577" Timestamp="1537311134"/>
+				<File Name="BGM" Hash="254162950" Timestamp="1535082619"/>
+				<File Name="Gradient_Music" Hash="3086888907" Timestamp="1537127920"/>
+				<File Name="Init" Hash="2252912348" Timestamp="1536798548"/>
+				<File Name="Music" Hash="1258772540" Timestamp="1535340075"/>
+				<File Name="Occlusion_Test" Hash="3927793126" Timestamp="1537313991"/>
+				<File Name="Pre_Post_Test" Hash="2352124125" Timestamp="1536799541"/>
+				<File Name="Zone" Hash="3107712028" Timestamp="1537127920"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="-1">
+				<File Name="" Hash="2174434779" Timestamp="1537313991"/>
+			</Language>
+		</XMLInfo>
+	</Platform>
+	<Platform GUID="{7CADD588-F292-4AD4-808E-EA7A9037B65A}">
+		<Banks>
+			<Language ID="393239870">
+				<File Name="Ambient" Hash="2756544577" Timestamp="1537311132"/>
+				<File Name="BGM" Hash="254162950" Timestamp="1535082619"/>
+				<File Name="Gradient_Music" Hash="3086888907" Timestamp="1537127920"/>
+				<File Name="Init" Hash="1367978670" Timestamp="1536798545"/>
+				<File Name="Music" Hash="1258772540" Timestamp="1535340075"/>
+				<File Name="Occlusion_Test" Hash="3927793126" Timestamp="1537313991"/>
+				<File Name="Pre_Post_Test" Hash="2352124125" Timestamp="1536799541"/>
+				<File Name="Zone" Hash="3107712028" Timestamp="1537127920"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="-1">
+				<File Name="" Hash="2103629229" Timestamp="1537313991"/>
+			</Language>
+		</XMLInfo>
+	</Platform>
+</IncrementalBankBuild>

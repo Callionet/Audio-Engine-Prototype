@@ -1,0 +1,7 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2421955270	Occlusion_Off			\Default Work Unit\Occlusion_Off	
+	3962505055	Occlusion_Test			\Default Work Unit\Occlusion_Test	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	465230762	BP Drumloop 45b 128bpm	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Windows\SFX\BP Drumloop 45b 128bpm_8956FC97.wem		\Interactive Music Hierarchy\Occlusion Test\Occlusion\Occlusion Test\BP Drumloop 45b 128bpm		1323056
+

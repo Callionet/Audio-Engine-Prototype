@@ -1,0 +1,566 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9918354e7f95c849965ba00511469c8, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  autoPopulateEnabled: 1
+  CurrentPluginConfig: 
+  m_lastPopulateTimePart2: 0
+  m_lastPopulateTimePsrt1: 0
+  AcousticTextureWwu:
+  - Guid: '{7879766C-57D9-48A4-90C8-574A74A1CBF8}'
+    m_lastTimePart2: -1999238997
+    m_lastTimePsrt1: -1851514330
+    ParentPhysicalPath: 
+    PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    List: []
+  AuxBusWwu:
+  - Guid: '{76F537B3-8674-4AA8-B3E5-E7A92F82BD43}'
+    m_lastTimePart2: -1999238997
+    m_lastTimePsrt1: -1852183398
+    ParentPhysicalPath: 
+    PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    List: []
+  BankWwu:
+  - Guid: '{ABCA0604-32C5-405F-A4F1-14AEFFAA6843}'
+    m_lastTimePart2: -1999233605
+    m_lastTimePsrt1: -947799913
+    ParentPhysicalPath: 
+    PhysicalPath: SoundBanks\Default Work Unit.wwu
+    List:
+    - Guid: 93cd64a8576ae945a3f812078a9b720f
+      ID: 77978275
+      Name: Ambient
+      Path: Default Work Unit\Ambient
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Ambient
+        ObjectType: 7
+    - Guid: b22de1aceb61c84dab244c3033441b34
+      ID: 416688437
+      Name: Gradient_Music
+      Path: Default Work Unit\Gradient_Music
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Gradient_Music
+        ObjectType: 7
+    - Guid: dbdbc77314c9e44b8dc7a3a6b72d7289
+      ID: -303024426
+      Name: Music
+      Path: Default Work Unit\Music
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 7
+    - Guid: fe9f2c40dc9a9a4cb6352cc78fd16373
+      ID: -332462241
+      Name: Occlusion_Test
+      Path: Default Work Unit\Occlusion_Test
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Occlusion_Test
+        ObjectType: 7
+    - Guid: d471db2d15b1f34394444a2547903e71
+      ID: 299790228
+      Name: Pre_Post_Test
+      Path: Default Work Unit\Pre_Post_Test
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Pre_Post_Test
+        ObjectType: 7
+    - Guid: 8de433832b7c5d41bfb27ab27eb92f91
+      ID: 832057375
+      Name: Zone
+      Path: Default Work Unit\Zone
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Zone
+        ObjectType: 7
+  EventWwu:
+  - Guid: '{41B81A10-BA8A-4410-A175-F5DD260AD356}'
+    m_lastTimePart2: -1999233605
+    m_lastTimePsrt1: -947710151
+    ParentPhysicalPath: 
+    PhysicalPath: Events\Default Work Unit.wwu
+    List:
+    - Guid: f6d8ba0cf459a94a813451a81d9e8ca6
+      ID: -490693578
+      Name: AI_Test
+      Path: Default Work Unit\AI_Test
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: AI_Test
+        ObjectType: 3
+      maxAttenuation: 12
+      maxDuration: 0
+      minDuration: 0
+    - Guid: 3ba14f9f5494e24bbb084d58d7b08c8d
+      ID: 1000141335
+      Name: autum
+      Path: Default Work Unit\autum
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: autum
+        ObjectType: 3
+      maxAttenuation: 12
+      maxDuration: 0
+      minDuration: 0
+    - Guid: 99902a8b55085c42835f5390a0017e39
+      ID: 1291433366
+      Name: base
+      Path: Default Work Unit\base
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: base
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: 23ca1787ca5c014ebe8114196b98eec6
+      ID: -242935482
+      Name: Cube
+      Path: Default Work Unit\Cube
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Cube
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: 05591456c2c9d14cb87e0adf837d1aea
+      ID: 305106852
+      Name: global_base
+      Path: Default Work Unit\global_base
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: global_base
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: 068974e1882d1c42a571a594c42a6790
+      ID: 500300499
+      Name: gradient_season
+      Path: Default Work Unit\gradient_season
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: gradient_season
+        ObjectType: 3
+      maxAttenuation: 12
+      maxDuration: 0
+      minDuration: 0
+    - Guid: 6051d0f53a0dbb4b8c7b61a093b81d0f
+      ID: -1873012026
+      Name: Occlusion_Off
+      Path: Default Work Unit\Occlusion_Off
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Occlusion_Off
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: ec8b7477ca3099449b0d66d36dc72097
+      ID: -332462241
+      Name: Occlusion_Test
+      Path: Default Work Unit\Occlusion_Test
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Occlusion_Test
+        ObjectType: 3
+      maxAttenuation: 12
+      maxDuration: 0
+      minDuration: 0
+    - Guid: 8fd4c54a4648bd48a10fd8ac3142d31a
+      ID: -816374962
+      Name: Sphere
+      Path: Default Work Unit\Sphere
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Sphere
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: 31fbd1a25b50cb42b15aa3b318cab4c6
+      ID: 1296465106
+      Name: spring
+      Path: Default Work Unit\spring
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: spring
+        ObjectType: 3
+      maxAttenuation: 12
+      maxDuration: 0
+      minDuration: 0
+    - Guid: 8414926d214fd14299a380c164df04de
+      ID: -520038128
+      Name: state_season
+      Path: Default Work Unit\state_season
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: state_season
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: 36a100882f67f64f9814173d5bc8e656
+      ID: -370404814
+      Name: summer
+      Path: Default Work Unit\summer
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: summer
+        ObjectType: 3
+      maxAttenuation: 12
+      maxDuration: 0
+      minDuration: 0
+    - Guid: fa08c6cdbefc7d4795f159ce9adfc6cc
+      ID: -1640219142
+      Name: water
+      Path: Default Work Unit\water
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: water
+        ObjectType: 3
+      maxAttenuation: 50
+      maxDuration: 0
+      minDuration: 0
+    - Guid: cdbe43bb54f4bc4f8235915cfaaf8000
+      ID: -1329623802
+      Name: winter
+      Path: Default Work Unit\winter
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: winter
+        ObjectType: 3
+      maxAttenuation: 12
+      maxDuration: 0
+      minDuration: 0
+  - Guid: '{0DDE054F-735A-4FCB-A40A-6603E0AD1A59}'
+    m_lastTimePart2: -1999234800
+    m_lastTimePsrt1: 193097721
+    ParentPhysicalPath: 
+    PhysicalPath: Events\Pre Post Zones.wwu
+    List:
+    - Guid: 955e1b455fed8543a8a279526b86dfb4
+      ID: 961903338
+      Name: Zone_Test
+      Path: Pre Post Zones\Zone_Test
+      PathAndIcons:
+      - ElementName: Pre Post Zones
+        ObjectType: 12
+      - ElementName: Zone_Test
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+  ExpandedItems:
+  - /Sound Testing_WwiseProject
+  - /Sound Testing_WwiseProject/Events
+  - /Sound Testing_WwiseProject/Events/Default Work Unit
+  - /Sound Testing_WwiseProject/SoundBanks
+  - /Sound Testing_WwiseProject/SoundBanks/Default Work Unit
+  - /Sound Testing_WwiseProject/Switches
+  - /Sound Testing_WwiseProject/Switches/Default Work Unit
+  - /Sound Testing_WwiseProject/Switches/Default Work Unit/Cube
+  - /Sound Testing_WwiseProject/Switches/Default Work Unit/Sphere
+  RtpcWwu:
+  - Guid: '{E78A542C-B82E-4B31-A3C6-278DB9386E83}'
+    m_lastTimePart2: -1999234800
+    m_lastTimePsrt1: 193187408
+    ParentPhysicalPath: 
+    PhysicalPath: Game Parameters\Default Work Unit.wwu
+    List:
+    - Guid: 2a236a9c9337a145aeb4df49983717aa
+      ID: -220701758
+      Name: Autum_This
+      Path: Default Work Unit\Autum_This
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Autum_This
+        ObjectType: 13
+    - Guid: 08042642d372ca4db74633503b9e6c5f
+      ID: -120503772
+      Name: Danger
+      Path: Default Work Unit\Danger
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Danger
+        ObjectType: 13
+    - Guid: 192241d96d201e4e93d2981b1f2959fb
+      ID: -1628157658
+      Name: Day_Night
+      Path: Default Work Unit\Day_Night
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Day_Night
+        ObjectType: 13
+    - Guid: bfe798648d1c3545a086f7a153cb8e79
+      ID: 1565509801
+      Name: Percusive
+      Path: Default Work Unit\Percusive
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Percusive
+        ObjectType: 13
+    - Guid: ace1579aa4ac504884f07a7f5be34c3a
+      ID: -1254249583
+      Name: Spring_This
+      Path: Default Work Unit\Spring_This
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Spring_This
+        ObjectType: 13
+    - Guid: 7b8246020bda9a42ae379fad42d1d85c
+      ID: 532145585
+      Name: Summer_This
+      Path: Default Work Unit\Summer_This
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Summer_This
+        ObjectType: 13
+    - Guid: c88b83e0fa59ed499d31aca4b82fbeb6
+      ID: -1452760657
+      Name: Top_Layers
+      Path: Default Work Unit\Top_Layers
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Top_Layers
+        ObjectType: 13
+    - Guid: c03b7b462cd81940bf43830cc20d9080
+      ID: -2014507885
+      Name: Winter_Dis
+      Path: Default Work Unit\Winter_Dis
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Winter_Dis
+        ObjectType: 13
+  StateWwu:
+  - Guid: '{2B34C7A2-57B1-4748-94E1-9A8610205F19}'
+    m_lastTimePart2: -1999234800
+    m_lastTimePsrt1: 193267297
+    ParentPhysicalPath: 
+    PhysicalPath: States\Default Work Unit.wwu
+    List:
+    - Guid: 5491737cc6ff2c4784df60ecf7c4d489
+      ID: -1530726723
+      Name: Combat
+      Path: Default Work Unit\Combat
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Combat
+        ObjectType: 9
+      ValueGuids:
+      - bytes: 49f6d3322b72064da3f4ae7dcf210838
+      - bytes: d89cd9f397a8dc479913946961555bcc
+      - bytes: 9a2f9d5b37cd8544b371ea7592868795
+      ValueIcons:
+      - ElementName: No
+        ObjectType: 8
+      - ElementName: None
+        ObjectType: 8
+      - ElementName: Yes
+        ObjectType: 8
+      valueIDs: 8c187763db3ba32ca689613a
+      values:
+      - No
+      - None
+      - Yes
+    - Guid: a40306504265654090c16eec5b5b5708
+      ID: -861040006
+      Name: Pre_Post_Zone
+      Path: Default Work Unit\Pre_Post_Zone
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Pre_Post_Zone
+        ObjectType: 9
+      ValueGuids:
+      - bytes: 1a7a377882b2fb4e8a998002ef185846
+      - bytes: 57c7410d1d71ec46b7e9d45b8bc9265e
+      - bytes: 712c4973b4cef14189a43df72f169150
+      ValueIcons:
+      - ElementName: Industrial
+        ObjectType: 8
+      - ElementName: None
+        ObjectType: 8
+      - ElementName: Snow
+        ObjectType: 8
+      valueIDs: 68368b1cdb3ba32cd461f62e
+      values:
+      - Industrial
+      - None
+      - Snow
+    - Guid: c98e312f450fd94a99b4b7ccdf036666
+      ID: -913451938
+      Name: Season
+      Path: Default Work Unit\Season
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Season
+        ObjectType: 9
+      ValueGuids:
+      - bytes: ddba2600403d9f4d853e5a25faa611e3
+      - bytes: e95e5515331bd341a3aa0172e987914f
+      - bytes: cc11f8628673d34a9d7eb33454e4e3dc
+      - bytes: b2c5b7c4ec296642a5b0bbee470e45e0
+      - bytes: d661c5d26aa75b4f8428b7016edf73ee
+      ValueIcons:
+      - ElementName: Autum
+        ObjectType: 8
+      - ElementName: None
+        ObjectType: 8
+      - ElementName: Spring
+        ObjectType: 8
+      - ElementName: Summer
+        ObjectType: 8
+      - ElementName: Winter
+        ObjectType: 8
+      valueIDs: 17f29c3bdb3ba32cd27c464d3212ece9068dbfb0
+      values:
+      - Autum
+      - None
+      - Spring
+      - Summer
+      - Winter
+    - Guid: 52459cb706f5714cbff46d1c41b3708b
+      ID: -134809082
+      Name: Trance
+      Path: Default Work Unit\Trance
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trance
+        ObjectType: 9
+      ValueGuids:
+      - bytes: ded8f4be934a9f4eab45bb89bf22305d
+      - bytes: a63b4c963eb42c4fb45d18d82a4ae5ff
+      ValueIcons:
+      - ElementName: None
+        ObjectType: 8
+      - ElementName: trance1
+        ObjectType: 8
+      valueIDs: db3ba32c4397cb5f
+      values:
+      - None
+      - trance1
+    - Guid: c6c77984b506034e83cf3917bdedbbff
+      ID: 1695580245
+      Name: Transition_Zone
+      Path: Default Work Unit\Transition_Zone
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Transition_Zone
+        ObjectType: 9
+      ValueGuids:
+      - bytes: fea0dd495e3001469475a26e60b6a1ca
+      - bytes: 8acfd7e9fd9b2e498623d1d446cde2c9
+      - bytes: 8678ff0af7892b429dd4888dbc2ec312
+      ValueIcons:
+      - ElementName: no_transition
+        ObjectType: 8
+      - ElementName: None
+        ObjectType: 8
+      - ElementName: yes_transition
+        ObjectType: 8
+      valueIDs: 5297b33ddb3ba32ce802ce4e
+      values:
+      - no_transition
+      - None
+      - yes_transition
+  SwitchWwu:
+  - Guid: '{4424F821-4DC6-497C-BC04-D88A1D8671EF}'
+    m_lastTimePart2: -1999234065
+    m_lastTimePsrt1: 653080105
+    ParentPhysicalPath: 
+    PhysicalPath: Switches\Default Work Unit.wwu
+    List:
+    - Guid: 61aa9b4a0ca18448ab040ebbe11f8cf8
+      ID: -242935482
+      Name: Cube
+      Path: Default Work Unit\Cube
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Cube
+        ObjectType: 11
+      ValueGuids:
+      - bytes: 6c196ab4bb90604288176044ad85a1af
+      - bytes: 0bb6174f943c604a9305a5e49c8f5bc6
+      ValueIcons:
+      - ElementName: No
+        ObjectType: 10
+      - ElementName: Yes
+        ObjectType: 10
+      valueIDs: 8c187763a689613a
+      values:
+      - No
+      - Yes
+    - Guid: c99278ce597fff4e90a3628087fbd596
+      ID: -816374962
+      Name: Sphere
+      Path: Default Work Unit\Sphere
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Sphere
+        ObjectType: 11
+      ValueGuids:
+      - bytes: 53588988bbab99468d6caebd7e5d631b
+      - bytes: 804fa109a73e274c95d8b41c43ed2606
+      ValueIcons:
+      - ElementName: No
+        ObjectType: 10
+      - ElementName: Yes
+        ObjectType: 10
+      valueIDs: 8c187763a689613a
+      values:
+      - No
+      - Yes
+  TriggerWwu:
+  - Guid: '{815E1577-DADD-4D9F-959D-BA62DF87165F}'
+    m_lastTimePart2: -1999238997
+    m_lastTimePsrt1: -1851694691
+    ParentPhysicalPath: 
+    PhysicalPath: Triggers\Default Work Unit.wwu
+    List: []

@@ -1,0 +1,17 @@
+Event	ID	Name			Wwise Object Path	Notes
+	305106852	global_base			\Default Work Unit\global_base	
+	500300499	gradient_season			\Default Work Unit\gradient_season	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	2666809638	Day_Night			\Default Work Unit\Day_Night	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	105542593	fire	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Windows\SFX\fire_8956FC97.wem		\Interactive Music Hierarchy\Gradient Music\Gradient Music\summer\fire\fire		6912064
+	263609219	pulse	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Windows\SFX\pulse_8956FC97.wem		\Interactive Music Hierarchy\Gradient Music\Gradient Music\autum\pulse\pulse		6912064
+	276991622	conga	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Windows\SFX\conga_8956FC97.wem		\Interactive Music Hierarchy\Gradient Music\Gradient Music\autum\conga\conga		3072064
+	312396702	sidechain	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Windows\SFX\sidechain_8956FC97.wem		\Interactive Music Hierarchy\Gradient Music\Gradient Music\spring\sidechain1\sidechain		3072064
+	763610213	sidechain2	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Windows\SFX\sidechain2_8956FC97.wem		\Interactive Music Hierarchy\Gradient Music\Gradient Music\summer\sidechain2\sidechain2		3072064
+	798224761	bass	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Windows\SFX\bass_8956FC97.wem		\Interactive Music Hierarchy\Gradient Music\Global Base\Base\Base\bass		3072064
+	904589003	rave	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Windows\SFX\rave_8956FC97.wem		\Interactive Music Hierarchy\Gradient Music\Gradient Music\spring\rave\rave		4608064
+	1036277152	modular	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Windows\SFX\modular_8956FC97.wem		\Interactive Music Hierarchy\Gradient Music\Gradient Music\winter\modular\modular		3072064
+

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{ABCA0604-32C5-405F-A4F1-14AEFFAA6843}" SchemaVersion="89">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{ABCA0604-32C5-405F-A4F1-14AEFFAA6843}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Music" ID="{73C7DBDB-C914-4BE4-8DC7-A3A6B72D7289}">
+					<ObjectInclusionList>
+						<ObjectRef Name="state_season" ID="{6D921484-4F21-42D1-99A3-80C164DF04DE}" WorkUnitID="{41B81A10-BA8A-4410-A175-F5DD260AD356}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Ambient" ID="{A864CD93-6A57-45E9-A3F8-12078A9B720F}">
+					<ObjectInclusionList>
+						<ObjectRef Name="water" ID="{CDC608FA-FCBE-477D-95F1-59CE9ADFC6CC}" WorkUnitID="{41B81A10-BA8A-4410-A175-F5DD260AD356}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Sphere" ID="{4AC5D48F-4846-48BD-A10F-D8AC3142D31A}" WorkUnitID="{41B81A10-BA8A-4410-A175-F5DD260AD356}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="AI_Test" ID="{0CBAD8F6-59F4-4AA9-8134-51A81D9E8CA6}" WorkUnitID="{41B81A10-BA8A-4410-A175-F5DD260AD356}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Cube" ID="{8717CA23-5CCA-4E01-BE81-14196B98EEC6}" WorkUnitID="{41B81A10-BA8A-4410-A175-F5DD260AD356}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Gradient_Music" ID="{ACE12DB2-61EB-4DC8-AB24-4C3033441B34}">
+					<ObjectInclusionList>
+						<ObjectRef Name="gradient_season" ID="{E1748906-2D88-421C-A571-A594C42A6790}" WorkUnitID="{41B81A10-BA8A-4410-A175-F5DD260AD356}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="global_base" ID="{56145905-C9C2-4CD1-B87E-0ADF837D1AEA}" WorkUnitID="{41B81A10-BA8A-4410-A175-F5DD260AD356}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Zone" ID="{8333E48D-7C2B-415D-BFB2-7AB27EB92F91}">
+					<ObjectInclusionList>
+						<ObjectRef Name="base" ID="{8B2A9099-0855-425C-835F-5390A0017E39}" WorkUnitID="{41B81A10-BA8A-4410-A175-F5DD260AD356}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="spring" ID="{A2D1FB31-505B-42CB-B15A-A3B318CAB4C6}" WorkUnitID="{41B81A10-BA8A-4410-A175-F5DD260AD356}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="autum" ID="{9F4FA13B-9454-4BE2-BB08-4D58D7B08C8D}" WorkUnitID="{41B81A10-BA8A-4410-A175-F5DD260AD356}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="winter" ID="{BB43BECD-F454-4FBC-8235-915CFAAF8000}" WorkUnitID="{41B81A10-BA8A-4410-A175-F5DD260AD356}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="summer" ID="{8800A136-672F-4FF6-9814-173D5BC8E656}" WorkUnitID="{41B81A10-BA8A-4410-A175-F5DD260AD356}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Pre_Post_Test" ID="{2DDB71D4-B115-43F3-9444-4A2547903E71}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Zone_Test" ID="{451B5E95-ED5F-4385-A8A2-79526B86DFB4}" WorkUnitID="{0DDE054F-735A-4FCB-A40A-6603E0AD1A59}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Occlusion_Test" ID="{402C9FFE-9ADC-4C9A-B635-2CC78FD16373}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Occlusion_Test" ID="{77748BEC-30CA-4499-9B0D-66D36DC72097}" WorkUnitID="{41B81A10-BA8A-4410-A175-F5DD260AD356}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Occlusion_Off" ID="{F5D05160-0D3A-4BBB-8C7B-61A093B81D0F}" WorkUnitID="{41B81A10-BA8A-4410-A175-F5DD260AD356}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

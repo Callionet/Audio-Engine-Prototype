@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{2B34C7A2-57B1-4748-94E1-9A8610205F19}" SchemaVersion="89">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{2B34C7A2-57B1-4748-94E1-9A8610205F19}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="Season" ID="{2F318EC9-0F45-4AD9-99B4-B7CCDF036666}">
+					<ChildrenList>
+						<State Name="None" ID="{15555EE9-1B33-41D3-A3AA-0172E987914F}"/>
+						<State Name="Spring" ID="{62F811CC-7386-4AD3-9D7E-B33454E4E3DC}"/>
+						<State Name="Autum" ID="{0026BADD-3D40-4D9F-853E-5A25FAA611E3}"/>
+						<State Name="Summer" ID="{C4B7C5B2-29EC-4266-A5B0-BBEE470E45E0}"/>
+						<State Name="Winter" ID="{D2C561D6-A76A-4F5B-8428-B7016EDF73EE}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Transition_Zone" ID="{8479C7C6-06B5-4E03-83CF-3917BDEDBBFF}">
+					<ChildrenList>
+						<State Name="None" ID="{E9D7CF8A-9BFD-492E-8623-D1D446CDE2C9}"/>
+						<State Name="no_transition" ID="{49DDA0FE-305E-4601-9475-A26E60B6A1CA}"/>
+						<State Name="yes_transition" ID="{0AFF7886-89F7-422B-9DD4-888DBC2EC312}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Trance" ID="{B79C4552-F506-4C71-BFF4-6D1C41B3708B}">
+					<ChildrenList>
+						<State Name="None" ID="{BEF4D8DE-4A93-4E9F-AB45-BB89BF22305D}"/>
+						<State Name="trance1" ID="{964C3BA6-B43E-4F2C-B45D-18D82A4AE5FF}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Pre_Post_Zone" ID="{500603A4-6542-4065-90C1-6EEC5B5B5708}">
+					<ChildrenList>
+						<State Name="None" ID="{0D41C757-711D-46EC-B7E9-D45B8BC9265E}"/>
+						<State Name="Snow" ID="{73492C71-CEB4-41F1-89A4-3DF72F169150}"/>
+						<State Name="Industrial" ID="{78377A1A-B282-4EFB-8A99-8002EF185846}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Combat" ID="{7C739154-FFC6-472C-84DF-60ECF7C4D489}">
+					<ChildrenList>
+						<State Name="None" ID="{F3D99CD8-A897-47DC-9913-946961555BCC}"/>
+						<State Name="Yes" ID="{5B9D2F9A-CD37-4485-B371-EA7592868795}"/>
+						<State Name="No" ID="{32D3F649-722B-4D06-A3F4-AE7DCF210838}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

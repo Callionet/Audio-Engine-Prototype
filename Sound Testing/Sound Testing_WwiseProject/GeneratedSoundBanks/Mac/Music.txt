@@ -1,0 +1,19 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3774929168	state_season			\Default Work Unit\state_season	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	2666809638	Day_Night			\Default Work Unit\Day_Night	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	105542593	fire	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\fire_8956FC97.wem		\Interactive Music Hierarchy\Default Work Unit\Music\trance1\stems\fire		6912064
+	121030138	dirt	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\dirt_8956FC97.wem		\Interactive Music Hierarchy\Default Work Unit\Music\trance2\stems\dirt		3072064
+	187036036	build_synth	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\build_synth_8956FC97.wem		\Interactive Music Hierarchy\Default Work Unit\Music\calm2\stems\build_synth		6912064
+	243376747	buzz	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\buzz_8956FC97.wem		\Interactive Music Hierarchy\Default Work Unit\Music\trance1\stems\buzz		4248064
+	263609219	pulse	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\pulse_8956FC97.wem		\Interactive Music Hierarchy\Default Work Unit\Music\calm2\stems\pulse		6912064
+	276991622	conga	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\conga_8956FC97.wem		\Interactive Music Hierarchy\Default Work Unit\Music\calm2\stems\conga		3072064
+	312396702	sidechain	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\sidechain_8956FC97.wem		\Interactive Music Hierarchy\Default Work Unit\Music\calm1\stems\sidechain		3072064
+	540090677	perc	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\perc_8956FC97.wem		\Interactive Music Hierarchy\Default Work Unit\Music\trance2\stems\perc		3072064
+	798224761	bass	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\bass_8956FC97.wem		\Interactive Music Hierarchy\Default Work Unit\Music\calm2\stems\bass		3072064
+	1036277152	modular	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\modular_8956FC97.wem		\Interactive Music Hierarchy\Default Work Unit\Music\trance1\stems\modular		3072064
+	1039102965	bounce	D:\2018 Gitlab S2\Game Sound (Backup)\Sound Testing\Sound Testing_WwiseProject\.cache\Mac\SFX\bounce_8956FC97.wem		\Interactive Music Hierarchy\Default Work Unit\Music\calm2\stems\bounce		3072064
+
